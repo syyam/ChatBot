@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "763022752303",
+    "firebase_url": "https://chatbot-71cf1.firebaseio.com",
+    "project_id": "chatbot-71cf1",
+    "storage_bucket": "chatbot-71cf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763022752303:android:e55228c7092cecd6",
+        "android_client_info": {
+          "package_name": "com.example.syyam.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763022752303-kka8vc0o4d3ookhjffju4q5nkmce85rh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.syyam.chatbot",
+            "certificate_hash": "237d41dd074cc9d8ceb15c535a71cdb170df0a8e"
+          }
+        },
+        {
+          "client_id": "763022752303-ma42f3fhtasj3u3uih56onfcvor3cb7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.syyam.chatbot",
+            "certificate_hash": "0620b29e4d564cc73fcf1cea1b2eadffb29d9d4f"
+          }
+        },
+        {
+          "client_id": "763022752303-sb5pevpvpfiruopbhmqego5odruptm33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9aBxGeJ9HYcqe5d6-mwPpGwBwBWm9SA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763022752303-sb5pevpvpfiruopbhmqego5odruptm33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
